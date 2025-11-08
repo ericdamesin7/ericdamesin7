@@ -13,17 +13,17 @@ experiment with code, currently learning AI🧠
 <p align="left">
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" height="50" alt="Python" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="100" height="100" alt="Python" />
   </a>
 
   <!-- Pandas -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="50" height="50" alt="Pandas" />
+    <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="100" height="100" alt="Pandas" />
   </a>
 
   <!-- Matplotlib -->
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/192px-Created_with_Matplotlib-logo.svg.png?20150219130408" width="50" height="50" alt="Matplotlib" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/192px-Created_with_Matplotlib-logo.svg.png?20150219130408" width="100" height="100" alt="Matplotlib" />
   </a>
 </p>
 
