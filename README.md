@@ -11,7 +11,7 @@ experiment with code, currently learning AI🧠
 
 ### Skills
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/fbdaaa9b-f132-4c7d-ae9c-b2525610171b" /><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/d221c145-3ac9-4ef5-8d0e-82c554f5b0a3" /><img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/9e08680f-f0ca-43bb-b6b3-d602db06d498" /></a>
+![Matplotlib](https://img.shields.io/badge/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F01%2FCreated_with_Matplotlib-logo.svg)
 </p>
 
 ### Socials
