@@ -11,8 +11,22 @@ experiment with code, currently learning AI🧠
 
 ### Skills
 <p align="left">
-![Matplotlib](https://img.shields.io/badge/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F01%2FCreated_with_Matplotlib-logo.svg)
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  </a>
+
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="36" height="36" alt="Pandas" />
+  </a>
+
+  <!-- Matplotlib -->
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/matplotlib-colored.svg" width="36" height="36" alt="Matplotlib" />
+  </a>
 </p>
+
 
 ### Socials
 Instagram : eric.damesin
