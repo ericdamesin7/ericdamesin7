@@ -5,7 +5,7 @@ experiment with code, currently learning AI🧠
 -------------------------------------------
 
 * 🌍  I'm based in France
-* 🚀  I'm currently working on [pandas & matplotlib](https://github.com/ericdamesin7/Projet)
+* 🚀  I'm currently working on [Regression & Classification](https://github.com/ericdamesin7/Projet)
 * 🧠  I'm learning Python Machine Learning (ML)
 * 🤝  I'm open to collaborating on Funny or useful Project, with chill people
 
@@ -23,7 +23,13 @@ experiment with code, currently learning AI🧠
 
   <!-- Matplotlib -->
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/192px-Created_with_Matplotlib-logo.svg.png?20150219130408" width="100" height="100" alt="Matplotlib" />
+    <img src="https://images.seeklogo.com/logo-png/42/1/matplotlib-logo-png_seeklogo-428047.png" width="100" height="100" alt="Matplotlib" />
+  </a>
+</p>
+
+  <!-- Scikit-learn -->
+  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
+    <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/langfr-330px-Scikit_learn_logo_small.svg.png" width="100" height="100" alt="Scikit-learn" />
   </a>
 </p>
 
