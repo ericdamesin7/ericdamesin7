@@ -13,23 +13,26 @@ experiment with code, currently learning AI🧠
 <p align="left">
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="100" height="100" alt="Python" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
+         width="100" height="100" alt="Python" />
   </a>
 
   <!-- Pandas -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="100" height="100" alt="Pandas" />
+    <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg"
+         width="100" height="100" alt="Pandas" />
   </a>
 
   <!-- Matplotlib -->
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://images.seeklogo.com/logo-png/42/1/matplotlib-logo-png_seeklogo-428047.png" width="100" height="100" alt="Matplotlib" />
+    <img src="https://images.seeklogo.com/logo-png/42/1/matplotlib-logo-png_seeklogo-428047.png"
+         width="100" height="100" alt="Matplotlib" />
   </a>
-</p>
 
   <!-- Scikit-learn -->
   <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
-    <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/langfr-330px-Scikit_learn_logo_small.svg.png" width="100" height="100" alt="Scikit-learn" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/330px-Scikit_learn_logo_small.svg.png"
+         width="100" height="100" alt="Scikit-learn" />
   </a>
 </p>
 
