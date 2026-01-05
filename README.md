@@ -25,7 +25,7 @@ experiment with code, currently learning AI🧠
 
   <!-- Matplotlib -->
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://images.seeklogo.com/logo-png/42/1/matplotlib-logo-png_seeklogo-428047.png"
+    <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg"
          width="100" height="100" alt="Matplotlib" />
   </a>
 
