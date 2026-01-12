@@ -6,7 +6,8 @@ experiment with code, currently learning AI🧠
 
 * 🌍  I'm based in France
 * 🚀  I'm currently working on [Regression & Classification](https://github.com/ericdamesin7/Projet)
-* 🧠  I'm learning Python Machine Learning (ML)
+* 🧠  I'm learning Python Machine Learning
+* 🔥  Currently exploring PyTorch
 * 🤝  I'm open to collaborating on Funny or useful Project, with chill people
 
 ### Skills
